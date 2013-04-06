@@ -1,8 +1,8 @@
 <?LassoScript 
 	// ==================================
-	/*		xs_lFlickr :)
-		Jonathan Guthrie 2006
-		
+	/*		xs_lFlickr - Lasso Flickr API
+		Jonathan Guthrie 2006, 2013
+
 		http://www.flickr.com/services/api/response.json.html	*/	// ==================================
 define xs_lFlickr => type {
 	
